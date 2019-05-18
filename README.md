@@ -1,6 +1,6 @@
 # Travelling-Bears-CppGame
 C++ game in graphics.h
-************TRAVELLING BEARS**************************************
+**************************************************
 
 
 IDE used to run: Dev-C++ 5.11
