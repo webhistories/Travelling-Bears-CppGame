@@ -28,7 +28,7 @@ Folders used:
 
 
 
-
+	![](tbears.gif)
 **********************************************************************
 
 Presented by:
@@ -36,5 +36,5 @@ Presented by:
 			GO, MICHAELA ALLEN D.		2015-02161	
 			INSIGNE, LENA PATRICE S.	2015-02663
 			LORZANO, BEATRIZ JUDE F.	2015-02717
-			![](tbears.gif)
+		
 
